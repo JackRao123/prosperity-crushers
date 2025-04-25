@@ -1,7 +1,7 @@
 This project contains research, strategies, and algorithms developed by our team, **"5/10 Super Regs,"** for the **IMC Prosperity 2025** trading simulation.
 
 🏆 **Achievements:**
-- Placed **19th globally**
+- Placed **19th globally** out of 12,620 teams.
 - Ranked **3rd in Australia**
 - Scored **1,026,033 seashells** overall
 
